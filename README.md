@@ -7,6 +7,6 @@ To run the code click here: <a href="https://arpit-harsit01-gmail-com.trinket.io
 
 To view more of my projects click here: <a href="https://www.github.com/arpk44">Arpit Kesharwani</a>
 
-Visit my blog (It might not work because of your network settings) <a href="arpitkesharwani.site">myBlog</a>.
+Visit my blog (It might not work because of your network settings) <a href="https://www.arpitkesharwani.site">myBlog</a>.
 
-Add me on instagram <a href="instagram.com/arpk44">(@arpk44)</a>.
+Add me on instagram <a href="https://www.instagram.com/arpk44">(@arpk44)</a>.
